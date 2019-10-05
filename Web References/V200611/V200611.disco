@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://api.cvent.com/soap/V200611.ASMX?wsdl" docRef="http://api.cvent.com/soap/V200611.ASMX" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://api.cvent.com/soap/V200611.ASMX" xmlns:q1="http://api.cvent.com/2006-11" binding="q1:V200611Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://api.cvent.com/soap/V200611.ASMX" xmlns:q2="http://api.cvent.com/2006-11" binding="q2:V200611Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
