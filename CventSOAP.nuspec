@@ -1,18 +1,20 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Cvent SOAP</id>
+    <id>CventSOAP</id>
     <version>1.0.0</version>
     <title>Cvent SOAP</title>
-    <authors>ahouck</authors>
-    <owners>ahouck</owners>
-    <licenseUrl></licenseUrl>
+    <authors>alanhouck</authors>
+    <owners></owners>
     <projectUrl>https://github.com/alanhouck/CventSOAP</projectUrl>
-    <iconUrl></iconUrl>
+    <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>Cvent SOAP WSDL</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags></tags>
   </metadata>
+  <files>
+    <file src="bin\Debug\CventSOAP.dll" target="lib\net472" />
+  </files>
 </package>
